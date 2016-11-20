@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  starting_lat: MyString
+  starting_lon: MyString
+  present_lat: MyString
+  present_lon: MyString
+  ending_lat: MyString
+  ending_lon: MyString
+
+two:
+  starting_lat: MyString
+  starting_lon: MyString
+  present_lat: MyString
+  present_lon: MyString
+  ending_lat: MyString
+  ending_lon: MyString
